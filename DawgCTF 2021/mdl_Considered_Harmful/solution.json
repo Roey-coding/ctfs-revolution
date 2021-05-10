@@ -1,0 +1,11 @@
+{
+    version: "MDL/1.1",
+    type: "meme",
+    base: {
+        format: "Meme.Matrix.WhatIfIToldYou"
+    },
+    caption: {
+        topText: "@/opt/flag.txt",
+        bottomText: "you can code your memes"
+    }
+}
