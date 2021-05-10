@@ -1,0 +1,8 @@
+pwn/Bofit
+trashcanna
+158 solves / 125 points
+"Because Bop It is copyrighted, apparently"
+nc umbccd.io 4100
+
+files: bofit, bofit.cs
+
